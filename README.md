@@ -42,13 +42,4 @@ Inventory Management System with Laravel 10 and MySql.
     Open file `./config/cart.php`. You can set a tax, format number, etc.
     > For More details, visit this link [hardevine/shoppingcart](https://packagist.org/packages/hardevine/shoppingcart).
 
-## 📝 Contributing
 
-If you have any ideas to make it more interesting, please send a PR or create an issue for a feature request.
-
-# 🤝 License
-
-### [MIT](LICENSE)
-
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
