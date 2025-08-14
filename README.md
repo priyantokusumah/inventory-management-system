@@ -35,8 +35,6 @@ Inventory Management System with Laravel 10 and MySql.
 10. Run `php artisan serve`
 11. Try login with email: `admin@admin.com` and password: `password`
 
-## 🚀 Config
-
 1. **Config Chart**
 
     Open file `./config/cart.php`. You can set a tax, format number, etc.
